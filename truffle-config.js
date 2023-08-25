@@ -1,6 +1,5 @@
 const HDWalletProvider = require("@truffle/hdwallet-provider");
-const mnemonic = "aae6757d640c565936fef7fb0aa53e9be9e397428406a35ec0008401d7a70c8d"; // Replace with your actual mnemonic
-
+const mnemonic = "aae6757d640c565936fef7fb0aa53e9be9e397428406a35ec0008401d7a70c8d"; 
 module.exports = {
   networks: {
     matic: {

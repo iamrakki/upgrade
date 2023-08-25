@@ -16,7 +16,7 @@ contract Proxy {
     }
 
     receive() external payable {
-        // Handle received ether here if needed
+    
     }
 
     fallback() external payable {
